@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+.key{
+    text-align: center;
+}
+img{
+    height:400px;
+    width: 400px;
+}
+.first{
+    text-align: center;
+    color:rgb(8, 98, 114)
+}
+footer{
+    text-align: center;
+    color:brown;
+}
+p{
+    color:rgb(21, 21, 95);
+}
+ul{
+    color:rgb(21, 21, 95);
+}
+.this{
+    color:rgb(145, 145, 93)
+}
